@@ -1,2 +1,2 @@
-# calcula
+# calculadora
 Exercício da calculadora
